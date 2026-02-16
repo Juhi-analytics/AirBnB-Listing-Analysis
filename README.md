@@ -24,3 +24,13 @@ Capacity strongly correlated with price
 💡 Business Implication
 Regulatory intervention appears to have constrained supply growth, potentially contributing to pricing pressure in high-demand neighborhoods.
 
+## Download Dataset
+
+Install Kaggle API and run:
+
+kaggle datasets download https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews
+Due to GitHub file size limitations, a sample dataset is provided in this repository. 
+Please download the full dataset from Kaggle and place it in the /data folder to reproduce results.
+
+
+
